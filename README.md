@@ -1,8 +1,3 @@
-# Lableme-Annotation-Segment-Json-to-MASK
-Lableme Annotation Segment Json to MASK
-# Lableme-Annotation-Segment-Json-to-MASK
-Lableme Annotation Segment Json to MASK
-
 # LabelMe JSON to Mask Converter 🚀  
 
 ## 📝 介紹  
